@@ -35,4 +35,8 @@ public class GameController : MonoBehaviour
         gameOverCanvas.SetActive(true);
         Time.timeScale = 0;
     }*/
+    /*public void Why()
+    {
+        //GameOver();
+    }*/
 }
